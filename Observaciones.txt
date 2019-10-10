@@ -1,0 +1,44 @@
+**************************
+* FLV                    *
+**************************
+------------
+|Capitulos:|
+------------
+
+Nombre en 110
+Fuentes en 273 (JS, hasta buena onda se vieron)
+
+---------
+|Series:|
+---------
+Hay un problema: Tendria que analizar el codigo (pero como, en serio, no solo: Agarrate eso y busca X regex). No es particularmente pesado, pero existe opciones mas sencillas.
+
+********************
+* Monoschinos      *
+********************
+
+------------
+|Capitulos |
+------------
+
+Nombre en 31 & 123
+Fuentes en 143,146,149,152,155
+
+-------------
+|Series:   |
+-------------
+
+Nombre en 31,156
+Descripcion en 164
+Generos en 167
+Listado 200+N
+A&#241;o en 161
+Tipo de producto (serie, pelicula, ova,etc,etc) 161 tras un |
+Estado (Emision) en 159
+
++++++++++++++++++++++++++++++++
+-------------------------------
++++++++++++++++++++++++++++++++
+El punto es que el recomendador te diga: Pues deberias de ver X o Y basado en esa informacion (lo que hay en series) y junto con eso te traiga el embedido para
+que lo veas. Adicionalmente deberias poder valorar si te gusto o no tras el enbedido.
+Eso se puede hacer con un redireccionamiento a una encuesta o algo similar, o en su defecto, una vista para estos en los cuales se contengan estas cosas.
